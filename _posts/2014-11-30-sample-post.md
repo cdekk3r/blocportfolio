@@ -1,4 +1,4 @@
-<!------->
-<!--layout: post-->
-<!--title: Sample post-->
-<!------->
+---
+layout: post
+title: Sample post
+---
