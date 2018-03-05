@@ -1,7 +1,15 @@
 ---
 layout: post
 title: Feature images
-feature-img: "img/pong.png"
-thumbnail-path: "img/blocjamsT.png"
+feature-img: "img/sample_feature_img.png"
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+
+<img src="pong.png" alt="Pong Game">
+
+A replica of the arcade classic Pong. Created with pure JavaScript and the HTML5 canvas element. It simulates a table-tennis or ping-pong game against a computer AI.
+
+<img src="c4.jpg" alt="Connect Four Game">
+
+An implementation of the another classic game Connect Four created in JavaScript.  
+A two-player game where discs are dropped into a seven column by six row grid. The goal being to "connect four" discs of the same color horizontally, vertically, or diagonally. 
+
